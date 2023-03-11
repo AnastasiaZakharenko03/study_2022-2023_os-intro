@@ -1,6 +1,6 @@
 ---
 ## Front matter
-title: "Лабораторная работа No 3."
+title: " Лабораторная работа No 3."
 subtitle: "Markdown"
 author: "Захаренко Анастасия Викторовна"
 
